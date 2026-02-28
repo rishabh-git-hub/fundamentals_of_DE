@@ -306,7 +306,7 @@ Your long-running project builds across the entire book:
 
 | Day | Date | Topic | Status |
 |-----|------|-------|--------|
-| 1 | | What is Data Engineering? | ⬜ |
+| 1 | | What is Data Engineering? | ✅  |
 | 2 | | Evolution of the Data Engineer | ⬜ |
 | 3 | | DE & Data Science + Data Maturity | ⬜ |
 | 4 | | DE Skills + Type A vs B | ⬜ |
