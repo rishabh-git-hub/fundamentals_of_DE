@@ -310,7 +310,7 @@ Your long-running project builds across the entire book:
 | 2 | | Evolution of the Data Engineer | ✅ |
 | 3 | | DE & Data Science + Data Maturity | ✅ |
 | 4 | | DE Skills + Type A vs B | ✅ |
-| 5 | | DEs in Organizations | ⬜ |
+| 5 | | DEs in Organizations | ✅ |
 | 6 | | DE Lifecycle + Source Systems | ⬜ |
 | 7 | | Storage + Ingestion stages | ⬜ |
 | 8 | | Transformation + Serving | ⬜ |
